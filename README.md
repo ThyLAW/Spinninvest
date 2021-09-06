@@ -1,6 +1,7 @@
 # Spinninvest
 Spinnivest, a 2d Unity game where you go through life age 18-60 and have certain events happen each round
 
+![img](./spinninvest.jpg)
 ## Play
 
 https://play.unity.com/mg/other/webgl-builds-58143
